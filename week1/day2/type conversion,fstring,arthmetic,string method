@@ -1,1 +1,48 @@
+# Day 2 – Python Basics Practice
+
+## Topics Learned Today
+
+### 1️Type Conversion
+- int()
+- float()
+- str()
+- bool()
+
+### 2️ f-Strings (String Formatting)
+- Using f"" to print variables inside strings
+
+###  Arithmetic Operators
+- Addition (+)
+- Subtraction (-)
+- Multiplication (*)
+- floor Division(//)
+- Division (/)
+- Modulus (%)
+
+###  String Methods
+- upper()
+- lower()
+- title()
+- strip()
+- replace()
+- split()
+- find()"index of first a" and .count() "how many a's"
+- startswith() and .endswith()
+- capitalize()
+- isdigit(), isalpha(), isalnum()
+- join()
+- format()
+-----
+
+##  What I Practiced
+- Took user input
+- Converted data types
+- Printed formatted output
+- Performed calculations
+- Manipulated strings
+
+---
+
+## Goal
+Build strong Python fundamentals for backend development.
 
