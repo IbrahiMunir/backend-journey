@@ -47,8 +47,7 @@ print(text.replace("java","python"));
 # .split() (convert string to list)
 
 text = "apple banana mango";
-print(text.splgit push origin main
-it());
+print(text.split());
 
 #.find()"index of first a" and .count() "how many a's"
 
